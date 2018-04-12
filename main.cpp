@@ -1,2 +1,2 @@
-printf("–ì‹…")
+printf("baseball")
 printf("test")
