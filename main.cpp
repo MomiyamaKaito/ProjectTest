@@ -1,1 +1,2 @@
+printf("–ì‹…")
 printf("test")
